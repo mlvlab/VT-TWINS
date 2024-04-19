@@ -49,10 +49,10 @@ data
  |           │   |─ 4K4PnQ66LQ8.mp4
  |           │   :
  |           :
- ```
+```
 
 ### Pretrained Weight
-The pretrained weight of our model, word2vec, and the tokenizer can be found in [here](https://drive.google.com/drive/folders/16QH4C6Sr6ptGp-wEnVsAwZem-kp-uLkt?usp=sharing). Place the pretrained weight of our model in the './checkpoint', and word2vec and the tokenizer in the './data'.
+The pretrained weight of our model, word2vec, and the tokenizer can be found in [here](https://drive.google.com/drive/folders/1PGzDKNmWAdti7fhDcHyTcBzvCW1GDruD?usp=sharing). Place the pretrained weight of our model in the './checkpoint', and word2vec and the tokenizer in the './data'.
 
 ## Evaluation
 
